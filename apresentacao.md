@@ -1,7 +1,11 @@
 # Apresentação 
 
-Este guia apresenta orientações para coordenadores de Colegiado de Curso realizarem suas atividades. 
+Este guia informal apresenta orientações para coordenadores de Colegiado de Curso. 
    - Primeira versão: uso do sistema __Colegiado__ 
+  
+  
+  
+## Atribuições do Coordenador
 
 São atribuições do Coordenador de Colegiado (Título IV, Capítulo 1, Seção 2, Art. 35. do Regimento Geral da UFBA): 
 
